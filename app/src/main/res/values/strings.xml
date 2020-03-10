@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="app_name">Health and Nutrition</string>
+
+    <string name="search_here">Search here</string>
+    <string name="nutrition_plan">Nutrition Plan</string>
+    <string name="nutrition_for_kids">Nutrition for Kids</string>
+    <string name="nutrition_for_woman">Nutrition for Women</string>
+    <string name="nutrition_for_man">Nutrition for Men</string>
+    <string name="nutrition_for_senior">Nutrition for Senior</string>
+    <string name="health_tips">Health Tips</string>
+
+    <string name="favorites">Favorites</string>
+
+    <string name="search_result">Search Result</string>
+
+    <string name="exercise">Exercise</string>
+    <string name="disease">Disease</string>
+
+    <string name="title_activity_disease">Disease</string>
+    <string name="ex_short_description">Short Description</string>
+
+    <string name="kid">Kids</string>
+    <string name="woman">Women</string>
+    <string name="man">Men</string>
+    <string name="senior">Senior</string>
+
+    <!--Exercise-->
+    <string-array name="exercise_titles">
+        <item>Lunges</item>
+        <item>Exercise Title 2</item>
+        <item>Exercise Title 3</item>
+        <item>Exercise Title 4</item>
+        <item>Exercise Title 5</item>
+        <item>Exercise Title 6</item>
+        <item>Exercise Title 7</item>
+        <item>Exercise Title 8</item>
+    </string-array>
+
+    <string-array name="exercise_desc_1">
+        <item>Lunges Description 1</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <string-array name="exercise_desc_2">
+        <item>Lunges Description 2</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <string-array name="exercise_desc_3">
+        <item>Lunges Description 3</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <string-array name="exercise_desc_4">
+        <item>Lunges Description 4</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <!--Disease-->
+    <string-array name="disease_titles">
+        <item>Autoimmune Diseases</item>
+        <item>Allergies and Asthma</item>
+        <item>Allergies and Asthma</item>
+    </string-array>
+
+    <string-array name="disease_desc_1">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <string-array name="disease_desc_2">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <string-array name="disease_desc_3">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <string-array name="disease_desc_4">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 2</item>
+    </string-array>
+
+    <!--Kinds nutrition-->
+    <string-array name="nutrition_kids_ttl">
+        <item>Nutrition kids ttl 1</item>
+        <item>Nutrition kids ttl 2</item>
+        <item>Nutrition kids ttl 3</item>
+        <item>Nutrition kids ttl 4</item>
+    </string-array>
+
+    <!--Men nutrition-->
+    <string-array name="nutrition_men_ttl">
+        <item>Nutrition men ttl 1</item>
+        <item>Nutrition men ttl 2</item>
+        <item>Nutrition men ttl 3</item>
+        <item>Nutrition men ttl 4</item>
+    </string-array>
+
+    <!--Woman nutrition-->
+    <string-array name="nutrition_woman_ttl">
+        <item>Nutrition woman ttl 1</item>
+        <item>Nutrition woman ttl 2</item>
+        <item>Nutrition woman ttl 3</item>
+        <item>Nutrition woman ttl 4</item>
+    </string-array>
+
+    <!--Senior nutrition-->
+    <string-array name="nutrition_senior_ttl">
+        <item>Nutrition senior ttl 1</item>
+        <item>Nutrition senior ttl 2</item>
+        <item>Nutrition senior ttl 3</item>
+        <item>Nutrition senior ttl 4</item>
+    </string-array>
+
+    <string name="objective">
+        “Health and Nutrition” is a health monitoring app for different categories people like - kids, women, men, and seniors where they will get health tips and nutrition plans.
+    </string>
+
+    <string name="copyright">
+        Copyright \u00A9 2019 Batch-01, BITI, Ltd.
+        \nAll rights reserved under ICT Division.
+    </string>
+
+    <string name="data_analysis">
+        <b>Data Collection and Analysis:</b>
+                \n\n\t\t\tAbdullah Al Mamun
+                \n\t\t\tTamanna Akter
+                \n\t\t\tMd Akibul Islam
+                \n\t\t\tTanjiha Chowdhury
+                \n\t\t\tAnamika Tripura
+                \n\t\t\tPuspa Chakma
+    </string>
+
+    <string name="ui_ux_graphics">
+        <b>UI/UX, Graphics, and Animation:</b>
+                \n\n\t\t\tShamim Ahmed
+                \n\t\t\tNaimur Rahman
+                \n\t\t\tMasum Billah Musa
+    </string>
+
+    <string name="developer">
+        <b>Developers:</b>
+                \n\n\t\t\tfarzanamumu95
+                \n\t\t\t@gmail.com
+                \n\n\t\t\temonalmamun
+                \n\t\t\t@gmail.com
+                \n\n\t\t\tlooksagar59
+                \n\t\t\t@gmail.com
+                \n\n\t\t\tsharminrimapinky36
+                \n\t\t\t@gmail.com
+                \n\n\t\t\talkawsar1030
+                \n\t\t\t@gmail.com
+    </string>
+
+    <string name="testing">
+        <b>Testing and Quality Checking:</b>
+                \n\n\t\t\tMd Shohel Rana
+                \n\t\t\tFarzana Rahman
+                \n\t\t\tEmon Al Mamun
+                \n\t\t\tSagar Chandra
+                \n\t\t\tSharmin Akter
+                \n\t\t\tKawsar Ullah
+
+    </string>
+
+    <string name="manager">
+        <b>Project Manager:</b>
+                \n\n\t\t\tMd Shohel Rana
+    </string>
+
+    <string name="conducted">___Conducted By___</string>
+
+    <string name="action_home">Home</string>
+    <string name="action_share">Share</string>
+    <string name="no_items_found">No items found</string>
+    <string name="action_rate_app">Rate App</string>
+    <string name="action_about">About</string>
+</resources>
